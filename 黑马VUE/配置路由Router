@@ -1,0 +1,25 @@
+在 main.js 中
+
+##### 导入路由的包
+
+import VueRouter from 'vue-router'
+
+##### 安装路由
+
+Vue.use(VueRouter)
+
+##### 导入自己的router.js路由模块
+
+import router from './router'
+
+##### 挂载路由对象到 vm 实例
+
+```javascript
+var vm = new Vue({
+   el: '#app',
+   render: c => c(app),
+   router  // 挂载路由对象到vm实例
+})
+```
+
+把底部栏图标对应的a链接都改成 router-link
