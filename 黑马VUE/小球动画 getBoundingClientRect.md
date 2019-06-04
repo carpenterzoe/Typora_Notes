@@ -1,4 +1,4 @@
-![1554511792716](C:\Users\Zoe\AppData\Roaming\Typora\typora-user-images\1554511792716.png)
+![1554511792716](C:\前端\Typora笔记\黑马VUE\assets\1554511792716.png)
 
 bug描述：小球动画添加到购物车，只有特定的距离才能实现效果。一旦上下滚动界面，小球到一半就消失了，不能准确落到购物车徽标处。
 
