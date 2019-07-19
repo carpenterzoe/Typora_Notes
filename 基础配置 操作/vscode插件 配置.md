@@ -8,6 +8,24 @@ open in browser  浏览器打开
 
 Vetur  VUE插件
 
+Auto Rename Tag 自动补全结尾标签
+
+HTML Snippets
+
+JavaScript ES6 code snippets
+
+小程序相关
+
+minapp
+
+vscode wxml
+
+vscode-wechat
+
+WeApp Snippets
+
+wxml
+
 
 
 设置Tab间距
